@@ -1,10 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="PERÚ",Canal N
-http://190.119.176.186:8000/play/a08e
-
 #EXTINF:-1 group-title="PERÚ",América TV
 http://45.173.72.12:8002/AMERICATV/index.m3u8
 
 #EXTINF:-1 group-title="PERÚ",ATV
 http://45.173.72.12:8002/ATV/index.m3u8
+
+#EXTINF:-1 group-title="PERÚ",Canal N
+http://190.119.176.186:8000/play/a08e
+
+#EXTINF:-1 group-title="PERÚ",TV Perú
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTINF:-1 group-title="PERÚ",TV Perú Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+#EXTINF:-1 group-title="PERÚ",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 group-title="PERÚ",Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
