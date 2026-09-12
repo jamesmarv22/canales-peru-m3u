@@ -10,8 +10,9 @@ http://45.171.108.253:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-name="América TV Original" group-title="🇵🇪 PERÚ",América TV Original
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
-#EXTINF:-1 tvg-name="América TV Prueba" group-title="🇵🇪 PERÚ",América TV Prueba
-http://bantel-cdn1.iptvperu.tv:1935/transcoder_t6/america/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="América TV Prueba 4" group-title="🇵🇪 PERÚ",América TV Prueba 4
+http://23.237.108.234/hls/PERU_AMERICA_TVC-720.m3u8
 
 #EXTINF:-1 tvg-name="Latina" group-title="🇵🇪 PERÚ",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
