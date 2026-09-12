@@ -4,6 +4,9 @@
 # 🇵🇪 PERÚ
 # ==============================
 
+#EXTINF:-1 tvg-name="América TV - Prueba 3" group-title="🇵🇪 PERÚ",América TV - Prueba 3
+http://45.171.108.253:8888/AMERICA/index.m3u8
+
 #EXTINF:-1 tvg-name="América TV Original" group-title="🇵🇪 PERÚ",América TV Original
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
