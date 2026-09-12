@@ -4,8 +4,14 @@
 # 🇵🇪 PERÚ
 # ==============================
 
-#EXTINF:-1 tvg-name="América TV" group-title="🇵🇪 PERÚ",América TV
+#EXTINF:-1 tvg-name="América TV 1" group-title="🇵🇪 PERÚ",América TV 1
 http://190.93.224.42/AMERICA-TV/index.m3u8
+
+#EXTINF:-1 tvg-name="América TV 2" group-title="🇵🇪 PERÚ",América TV 2
+http://201.230.137.204:8000/play/a0fm/index.m3u8
+
+#EXTINF:-1 tvg-name="América TV Bitel" group-title="🇵🇪 PERÚ",América TV Bitel
+https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 
 #EXTINF:-1 tvg-name="Latina" group-title="🇵🇪 PERÚ",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
