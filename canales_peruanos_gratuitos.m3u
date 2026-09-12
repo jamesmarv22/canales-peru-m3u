@@ -10,10 +10,19 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 
 #EXTINF:-1 group-title="PERÚ",TV Perú
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 
-#EXTINF:-1 group-title="PERÚ",TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 group-title="PERÚ",Canal IPe
+https://d3dg184cfwiwms.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+
+#EXTINF:-1 group-title="PERÚ",ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="PERÚ",ATV+ Noticias
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="PERÚ",Panamericana TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+https://live.cdnlivecdn.com/live/cde7c1935927ca1cf540d70c835deb58aca3fd15.m3u8
+
+#EXTINF:-1 group-title="PERÚ",Cosmos TV
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
