@@ -3,38 +3,17 @@
 #EXTINF:-1 group-title="PERÚ",América TV
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
-#EXTINF:-1 group-title="PERÚ",ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="PERÚ",Canal N
-https://www.americatv.com.pe/envivo
-
-#EXTINF:-1 group-title="PERÚ",TV Perú
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-
-#EXTINF:-1 group-title="PERÚ",TV Perú Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-
-#EXTINF:-1 group-title="PERÚ",Panamericana TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
 #EXTINF:-1 group-title="PERÚ",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="PERÚ",Canal IPe
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 
 #EXTINF:-1 group-title="PERÚ",Exitosa Noticias
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 
-#EXTINF:-1 group-title="PERÚ",ATV+ Noticias
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:-1 group-title="PERÚ",TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 group-title="PERÚ",Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 group-title="PERÚ",TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 group-title="PERÚ",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="PERÚ",Cosmos TV
-https://videoserver.tmcreativos.com/hls/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="PERÚ",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
